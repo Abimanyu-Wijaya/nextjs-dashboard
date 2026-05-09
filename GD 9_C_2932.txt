@@ -1,0 +1,5 @@
+Link repository publik GitHub:
+https://github.com/Abimanyu-Wijaya/nextjs-dashboard
+
+Link situs live Vercel:
+https://nextjs-dashboard-gamma-nine-70.vercel.app
